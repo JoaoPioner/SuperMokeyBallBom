@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.VC.opendb
+
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Arquivos gerados
+*.sln
+*.suo
+*.user
+*.userprefs
